@@ -1,1 +1,1 @@
-# godot-ai-env-adapter
+# godot-ai-env-adapter (GAEA)
