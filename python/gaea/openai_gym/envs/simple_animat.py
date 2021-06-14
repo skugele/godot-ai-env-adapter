@@ -5,8 +5,6 @@ import numpy as np
 import json
 import gym
 
-from stable_baselines.common.env_checker import check_env
-
 DEFAULT_RECV_TIMEOUT = 100  # in milliseconds
 DEFAULT_SEND_TIMEOUT = 100
 
